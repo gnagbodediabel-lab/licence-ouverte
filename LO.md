@@ -1,3 +1,4 @@
+<img width="288" height="288" alt="unnamed" src="https://github.com/user-attachments/assets/78034b6e-ad99-4950-9a04-e317080f18eb" />
 # LICENCE OUVERTE 2.0/OPEN LICENCE 2.0
 
 ## Réutilisation de l’« Information » sous  cette licence
